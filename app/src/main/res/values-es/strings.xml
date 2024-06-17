@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Library Viewer</string>
+    <string name="security">Seguridad</string>
+    <string name="exit">Salir</string>
+    <string name="address">Dirección</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="insertaddress">Introduce la dirección</string>
+    <string name="insertuser">Introduce el usuario</string>
+    <string name="insertpassword">Introduce la contraseña</string>
+    <string name="NumDisponibles">Números disponibles:</string>
+</resources>

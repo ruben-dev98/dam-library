@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AAA</color>
+    <color name="colorPrimaryDark">#EEE</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="purple_200">#800080</color>
+    <color name="purple_700">#660066</color>
+    <color name="white">#ffffff</color>
+    <!-- Secondary brand color. -->
+    <color name="teal_200">#008080</color>
+    <color name="teal_700">#006666</color>
+    <color name="black">#000000</color>
+</resources>
